@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Laptop Lenovo",
+    "description": "High performance laptop",
+    "price": 55000,
+    "category": "Electronics",
+    "sold": true,
+    "dateOfSale": "2022-01-10T00:00:00Z"
+  },
+  {
+    "title": "Samsung Mobile",
+    "description": "Latest Samsung smartphone",
+    "price": 25000,
+    "category": "Mobiles",
+    "sold": false,
+    "dateOfSale": "2022-02-15T00:00:00Z"
+  },
+  {
+    "title": "Nike Shoes",
+    "description": "Running sports shoes",
+    "price": 4500,
+    "category": "Fashion",
+    "sold": true,
+    "dateOfSale": "2022-03-05T00:00:00Z"
+  },
+  {
+    "title": "Bluetooth Headphones",
+    "description": "Wireless over-ear headset",
+    "price": 3200,
+    "category": "Electronics",
+    "sold": false,
+    "dateOfSale": "2022-04-22T00:00:00Z"
+  },
+  {
+    "title": "Office Chair",
+    "description": "Comfort ergonomic chair",
+    "price": 7500,
+    "category": "Furniture",
+    "sold": true,
+    "dateOfSale": "2022-05-13T00:00:00Z"
+  },
+  {
+    "title": "Washing Machine",
+    "description": "Fully automatic 7kg",
+    "price": 18000,
+    "category": "Home Appliances",
+    "sold": true,
+    "dateOfSale": "2022-06-01T00:00:00Z"
+  },
+  {
+    "title": "Wooden Table",
+    "description": "Solid wood dining table",
+    "price": 15000,
+    "category": "Furniture",
+    "sold": false,
+    "dateOfSale": "2022-07-20T00:00:00Z"
+  },
+  {
+    "title": "LED TV 43 inch",
+    "description": "Smart Android LED TV",
+    "price": 29000,
+    "category": "Electronics",
+    "sold": true,
+    "dateOfSale": "2022-08-09T00:00:00Z"
+  },
+  {
+    "title": "T-shirt Cotton",
+    "description": "Casual comfortable T-shirt",
+    "price": 600,
+    "category": "Fashion",
+    "sold": false,
+    "dateOfSale": "2022-09-11T00:00:00Z"
+  },
+  {
+    "title": "Microwave Oven",
+    "description": "Convection 25L",
+    "price": 9000,
+    "category": "Home Appliances",
+    "sold": true,
+    "dateOfSale": "2022-10-17T00:00:00Z"
+  }
+]
